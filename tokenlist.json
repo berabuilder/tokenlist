@@ -1,0 +1,51 @@
+[
+  {
+    "name": "FAKE test DAI",
+    "address": "0x319411530D8275BE65bfaE9CD80CDCD4B68f02Af",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 421613,
+    "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=010"
+  },
+  {
+    "name": "FAKE USDC",
+    "address": "0x09C3D27A92DaF167A99a15f8F1dcBfF630e90FA4",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 421613,
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389"
+  },
+  {
+    "name": "BERO",
+    "address": "0x73e066b076DdBe913e66e554e20Bf638D041eee2",
+    "symbol": "BERO",
+    "decimals": 18,
+    "chainId": 421613,
+    "logoURI": "/images/BeroLogo.svg"
+  },
+  {
+    "name": "MTK",
+    "address": "0x02Ec447A6435eF3A1626D54de6ABFD851e1974bC",
+    "symbol": "MTK",
+    "decimals": 18,
+    "chainId": 421613,
+    "logoURI": "/images/BeroLogo.svg"
+  },
+  {
+    "name": "MTK2",
+    "address": "0x6eAb865F88dd66F353318f26c3E9FBeD2Ead2451",
+    "symbol": "MTK2",
+    "decimals": 18,
+    "chainId": 421613,
+    "logoURI": "/images/BeroLogo.svg"
+  },
+
+  {
+    "name": "HONEY",
+    "address": "0x2698D7faCa7Fa9E2AA205A13a3e6a80ADbfF7C46",
+    "symbol": "HONEY",
+    "decimals": 6,
+    "chainId": 421613,
+    "logoURI": "/images/honey.svg"
+  }
+]
